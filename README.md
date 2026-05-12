@@ -1,2 +1,2 @@
 <<<<<<< HEAD
-# Git Szkolenie - Wersja Main
+# Git Szkolenie - Wersja MainLinia z main
