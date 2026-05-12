@@ -1,2 +1,2 @@
-# Git Szkolenie - Wersja Feature
-Kontakt: kontakt@przyklad.pl
+
+# Git Szkolenie - Wersja MainLinia z main
